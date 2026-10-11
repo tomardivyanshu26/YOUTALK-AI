@@ -139,4 +139,4 @@ Built for **ET Gen AI Hackathon 2026** 🚀
 
 ## 👨‍💻 Author
 
-**Gaurav Singh**
+**Divyanshu Tomer**
